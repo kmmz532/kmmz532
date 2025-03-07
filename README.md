@@ -17,4 +17,4 @@ My skills:
 - Framework: .NET, Node.js
 - Tool: IntelliJ IDEA, VSCode, Visual Studio, EmEditor, Vim, Git, XAMPP, MySQL, SQLite, Eclipse
 - OS: Windows, Android, iOS, CentOS, Ubuntu, RaspbianOS
-- Qualification: EIKEN Grade Pre-2, Driver's License(MT)
+- Qualification: Fundamental Information Technology Engineer Examination, EIKEN Grade Pre-2, Driver's License(MT)
