@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 My skills:
 - Programming Language: PHP/Java/C++/JavaScript/C#
 - Framework: .NET, Node.js
-- Tool: IntelliJ IDEA, VSCode, Visual Studio, EmEditor, Vim, Git, XAMPP, MySQL, SQLite, Eclipse
+- Tool: IntelliJ IDEA, VSCode, Visual Studio 2022, EmEditor, Vim, Git, XAMPP, MySQL, SQLite
 - OS: Windows, Android, iOS, CentOS, Ubuntu, RaspbianOS
 - Qualification: Fundamental Information Technology Engineer Examination, IT Passport, EIKEN Grade Pre-2, Driver's License(MT)
 
