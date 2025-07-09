@@ -19,6 +19,11 @@ My skills:
 - OS: Windows, Android, iOS, CentOS, Ubuntu, RaspbianOS
 - Qualification: Fundamental Information Technology Engineer Examination, IT Passport, EIKEN Grade Pre-2, Driver's License(MT)
 
+Links:
+- https://kmmz532.github.io/
+- https://x.com/kmmz1127
+- https://teams.live.com/l/community/FBAJhLdWSqnnwujxgI
+
 ### PGP PUBLIC KEY FB80A5D1376B831DD6521CA518DE57468C443ADA
 
 ```asc
