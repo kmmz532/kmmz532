@@ -13,11 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm a resident of Osaka, but I've never been to USJ
 
 My skills:
-- Programming Language: PHP/Java/C++/JavaScript/C#
-- Framework: .NET, Node.js
-- Tool: IntelliJ IDEA, VSCode, Visual Studio 2022, EmEditor, Vim, Git, XAMPP, MySQL, SQLite
-- OS: Windows, Android, iOS, CentOS, Ubuntu, RaspbianOS
-- Qualification: Applied Information Technology Engineer Examination, Fundamental Information Technology Engineer Examination, IT Passport, EIKEN Grade Pre-2, Driver's License(MT)
+
+| カテゴリ                       | 詳細                                                                                                                                                                  |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Programming Languages**  | PHP, Java, C++, JavaScript, C#                                                                                                                                      |
+| **Frameworks / Libraries** | .NET, Node.js                                                                                                                                                       |
+| **Tools / IDEs**           | IntelliJ IDEA, VSCode, Visual Studio 2022, EmEditor, Vim, Git, XAMPP, MySQL, SQLite                                                                                 |
+| **Operating Systems**      | Windows, Android, iOS, MacOS, CentOS, Ubuntu, RaspbianOS                                                                                                            |
+| **Qualifications**         | Applied Information Technology Engineer Examination, Fundamental Information Technology Engineer Examination, IT Passport, EIKEN Grade Pre-2, Driver's License (MT) |
 
 Links:
 - https://kmmz532.github.io/
