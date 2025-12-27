@@ -20,7 +20,7 @@ My skills:
 | **Frameworks / Libraries** | .NET, Node.js                                                                                                                                                       |
 | **Tools / IDEs**           | IntelliJ IDEA, VSCode, Visual Studio 2022, EmEditor, Vim, Git, XAMPP, MySQL, SQLite                                                                                 |
 | **Operating Systems**      | Windows, Android, iOS, MacOS, CentOS, Ubuntu, RaspbianOS                                                                                                            |
-| **Qualifications**         | Applied Information Technology Engineer Examination, Fundamental Information Technology Engineer Examination, IT Passport, EIKEN Grade Pre-2, Driver's License (MT) |
+| **Qualifications**         | Applied Information Technology Engineer Examination (応用情報技術者試験), Fundamental Information Technology Engineer Examination (基本情報技術者試験), IT Passport (ITパスポート), EIKEN Grade Pre-2 (英検準2級), MT Driver's License (MT普通自動車) |
 
 Links:
 - https://kmmz532.github.io/
