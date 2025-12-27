@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 
 My skills:
 
-| Cat                       | Details                                                                                                                                                                                                                                              |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Programming Languages**  | PHP, Java, C++, JavaScript, C#                                                                                                                                                                                                                  |
-| **Frameworks / Libraries** | .NET, Node.js                                                                                                                                                                                                                                   |
-| **Tools / IDEs**           | IntelliJ IDEA, VSCode, Visual Studio 2022, EmEditor, Vim, Git, XAMPP, MySQL, SQLite                                                                                                                                                             |
-| **Operating Systems**      | Windows, Android, iOS, MacOS, CentOS, Ubuntu, RaspbianOS                                                                                                                                                                                        |
+| 🛠 Category                       | 📝 Details                                                                                  |
+| -------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Programming Languages**  | PHP, Java, C++, JavaScript, C#                                                                     |
+| **Frameworks / Libraries** | .NET, Node.js                                                                                      |
+| **Tools / IDEs**           | IntelliJ IDEA, VSCode, Visual Studio 2022, EmEditor, Vim, Git, XAMPP, MySQL, SQLite                |
+| **Operating Systems**      | Windows, Android, iOS, MacOS, CentOS, Ubuntu, RaspbianOS                                           |
 | **Qualifications**         | - Applied Information Technology Engineer Examination (応用情報技術者試験) <br> - Fundamental Information Technology Engineer Examination (基本情報技術者試験) <br> - IT Passport (ITパスポート) <br> - EIKEN Grade Pre-2 (英検準2級) <br> - MT Driver's License (MT普通自動車) |
 
 
