@@ -25,6 +25,7 @@ My skills:
 
 Links:
 - https://kmmz.jp/
+- https://sv.kmmz.jp/wiki/
 - https://x.com/kmmz1127
 - https://teams.live.com/l/community/FBAJhLdWSqnnwujxgI
 
