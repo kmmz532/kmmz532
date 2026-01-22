@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on back-end development and software development
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about Programming
-- 📫 How to reach me: mizuto1127no01@gmail.com
+- 📫 How to reach me: contact@kmmz.jp
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a resident of Osaka, but I've never been to USJ
 
