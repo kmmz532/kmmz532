@@ -24,7 +24,7 @@ My skills:
 
 
 Links:
-- https://kmmz532.github.io/
+- https://kmmz.jp/
 - https://x.com/kmmz1127
 - https://teams.live.com/l/community/FBAJhLdWSqnnwujxgI
 
